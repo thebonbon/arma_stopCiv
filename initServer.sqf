@@ -14,6 +14,3 @@
 		} foreach _nearVehicles;
     };
 }] remoteExec['CBA_fnc_addEventHandler', 0, true];
-
-
-["ace_common_playActionNow", {systemChat str (_this select 1)}] call CBA_fnc_addEventHandler
