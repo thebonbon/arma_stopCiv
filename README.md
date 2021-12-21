@@ -4,6 +4,8 @@ Stops and orders near civillian drivers to stop and get out of their vehicle
 # Installtion
 Execute the initServer.sqf
 
+Works JIP
+
 # Usage
 Play the animation to stop a civ.
 
