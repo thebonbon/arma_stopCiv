@@ -1,5 +1,5 @@
 # arma_stopCiv
-Stops and orders near civillian drivers to stop and get out of their vehicle
+Orders near civillian drivers to stop and get out of their vehicle
 
 # Installtion
 Execute the initServer.sqf
